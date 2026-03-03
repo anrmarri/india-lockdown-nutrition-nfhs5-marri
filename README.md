@@ -1,6 +1,6 @@
 # Nutritional Impact of India’s First COVID-19 Lockdown
 
-This repository contains R code used for data management, statistical analysis, and figure generation for the manuscript:
+This repository contains R codes used for data management, statistical analysis, and figure generation for the manuscript:
 
 Marri AR, Dauphinais MR, et al. Nutritional Impact of India’s First COVID-19 Lockdown: Was It Equitable?
 
@@ -19,13 +19,14 @@ Analyses include:
 - Survey-weighted prevalence estimation
 - Survey-weighted logistic regression
 - Concentration index estimation
+- Forest plots for weighted odds ratios
 - Concentration curve visualization
 
 All analyses were conducted in R (version 4.5.1).
 
-## Repository Structure
+## Scripts included
 
-- `scripts/` – R scripts for cleaning, analysis, and figure generation for men, women, and children under five
+Three R scripts for cleaning, analysis, and figure generation - one each for men, women, and children under five are included
 
 ## Reproducibility
 
